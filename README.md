@@ -1,10 +1,12 @@
-# CEG3004-Project-Pr29
-Sound classification project for CEG3004 
+# CEG3004 Environmental Sound Classification Project
+
+## Group
+Pr_29
+
 ## Project Overview
 This project implements an environmental sound classification pipeline for 50 environmental sound classes using digital signal processing feature extraction and a machine learning classifier in Google Colab.
 
 ## Baseline Modifications
-Only the sections marked as `TODO` in the provided notebook were modified.
 
 The following components were improved:
 - audio preprocessing
@@ -57,5 +59,5 @@ Validation Macro-F1 achieved:
    - prediction CSV
    - trained model file
 
-
-
+## Notes
+This repository contains the project source notebook and documentation only.  
